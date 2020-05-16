@@ -24,21 +24,26 @@ md3ah.triangleAnimation();
 
 Using `treeAnimation()` method.
 
+![circle-animation](https://github.com/miromannino/Miro-D3-Animated-Headers/blob/resources/tree.gif?raw=true)
+
 
 ### Triangle
 
 Using `triangleAnimation()` method.
 
+![circle-animation](https://github.com/miromannino/Miro-D3-Animated-Headers/blob/resources/triangle.gif?raw=true)
 
 ### Square
 
 Using `squareAnimation()` method.
 
+![square-animation](https://github.com/miromannino/Miro-D3-Animated-Headers/blob/resources/square.gif?raw=true)
 
 ### Circle
 
 Using `circleAnimation()` method.
 
+![circle-animation](https://github.com/miromannino/Miro-D3-Animated-Headers/blob/resources/circle.gif?raw=true)
 
 ## License
 
